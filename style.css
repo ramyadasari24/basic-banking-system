@@ -1,0 +1,121 @@
+.container-fluid {
+  padding: 3% 8% 0;
+}
+
+.body {
+  background-image: url('bg.jpg');
+}
+
+#footer{
+  background-color: aqua;
+}
+
+/* Title */
+.big-heading {
+  font-size: 2.5rem;
+  text-align: center;
+  line-height: 1.5;
+  font-family: "Montserrat-Bold";
+  color:black;
+}
+
+#title {
+  background-color:rgb(111, 98, 228) ;
+  color:black;
+  padding-bottom: 3%;
+}
+
+#title .container-fluid {
+  padding: 1% 9% 5%;
+}
+
+
+.navbar-heading {
+  font-size: 1.5rem;
+  font-family: "Cambria";
+  color:black;
+  padding: 0 0;
+}
+
+.navbar {
+  padding: 0 0 3.2rem;
+}
+
+.nav-item {
+  color: orangered;
+  padding: 0 8px;
+}
+
+.description {
+  font-size: 2.5rem;
+  font-family: "Cambria";
+  color:black;
+  text-align: left;
+  padding-bottom: 3%;
+}
+
+.m-img {
+  right: 30%;
+  width: 50%
+}
+
+#testimonials {
+  text-align: center;
+  z-index: 1;
+}
+
+.testimonial-text {
+  font-size: 2.5rem;
+  padding-bottom: 5%;
+  color:black;
+  line-height: 1.5;
+}
+
+.carousel-item {
+  padding: 3% 7%;
+}
+
+.testimonial-image {
+  width: 50%;
+}
+
+#press {
+  padding: 100px;
+   color: black;
+  text-align: center;
+  padding-bottom: 4%;
+}
+
+.press-logo {
+  width: 10%;
+  margin: 20px 15px 10px;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: rgb(112, 165, 235);
+  color:black;
+  position: relative;
+  text-align: center;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.icon {
+  color: rgb(94, 92, 230);
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: rgb(78, 46, 46);
+}
